@@ -1,6 +1,8 @@
 <div align="center">
   
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgusckd)](https://solved.ac/dlgusckd) 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
   
 </div>
 
