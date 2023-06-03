@@ -1,8 +1,8 @@
 <div align="center">
   
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgusckd)](https://solved.ac/dlgusckd) 
+<a href="https://opgc.me/#/users/L-hyeonchang" target="_blank"><img src="https://api.opgc.me/githubs/users/L-hyeonchang/tag/?theme=basic" width="45%"/></a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
   
 </div>
 
@@ -40,8 +40,9 @@
 
 <div align="center">
 
-![hyeonchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-hyeonchang&show_icons=true&theme=radical)
+![hyeonchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonchang2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonchang2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FL-hyeonchang&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonchang2&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
